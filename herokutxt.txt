@@ -1,0 +1,29 @@
+From gitbash//
+git init
+heroku login
+heroku git:remote -a bonessoftware
+
+
+
+
+From cmd//
+dir
+cd Documents
+cd dltwdfbatch6
+cd project
+heroku login
+//brower open =>login
+heroku git:remote -a bonessoftware
+
+
+git status
+git add .
+git commit -am '26 may 2022'
+git push heroku master
+
+heroku open
+-----------------
+git
+
+
+
